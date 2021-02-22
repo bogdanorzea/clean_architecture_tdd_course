@@ -1,0 +1,16 @@
+{
+  "Act/Arrange/Assert Test": {
+    "prefix": "aaatest",
+    "body": [
+      "test('$1', () async {",
+      "  // arrange",
+      "  $0",
+      "  // act",
+      "  ",
+      "  // assert",
+      "  ",
+      "});",
+    ],
+    "description": "Test structure that follows the Act/Arrange/Assert format"
+  }
+}
