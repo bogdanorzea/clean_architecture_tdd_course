@@ -1,6 +1,13 @@
 {
     "cSpell.words": [
         "dartz",
-        "mockito"
+        "datasource",
+        "datasources",
+        "mockito",
+        "usecase",
+        "usecases"
+    ],
+    "cSpell.enableFiletypes": [
+        "dart"
     ]
 }
