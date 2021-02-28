@@ -10,7 +10,7 @@ main() {
   });
 
   group('stringToUnsignedInteger', () {
-    test('should return an integer when the string represents an unnasigned integer', () async {
+    test('should return an integer when the string represents an unassigned integer', () async {
       // arrange
       final str = '123';
       // act
