@@ -11,7 +11,7 @@
             "program": "./test/"
         },
         {
-            "name": "clean_architecture_tdd_course",
+            "name": "Start App",
             "request": "launch",
             "type": "dart"
         }
